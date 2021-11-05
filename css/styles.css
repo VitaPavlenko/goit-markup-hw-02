@@ -56,16 +56,16 @@ text-decoration:none;
 }
 
 .site-naw:hover,
-.site-naw:focus
-.ad-list:hover,
-.ad-list:focus,
+.site-naw:focus,
 .ft-list:hover,
-.ft-list:focus{
+.ft-list:focus,
+.ad-list:hover,
+.ad-list:focus{
 color: var(--accent-color);
 }
 
-.tel{
-    color: var(--title-text-color);
+.connect{
+color: var(--title-text-color);
 }
 
 .current{
@@ -115,6 +115,7 @@ color: var(--accent-whiter-color);
 .title{
 font-size: 14px;
 line-height: 1.14;
+text-transform:uppercase
 }
 
 
